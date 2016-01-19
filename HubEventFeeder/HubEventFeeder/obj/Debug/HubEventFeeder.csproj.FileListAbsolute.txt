@@ -1,0 +1,15 @@
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\HubEventFeeder.exe.config
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\obj\Debug\HubEventFeeder.csprojResolveAssemblyReference.cache
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\HubEventFeeder.exe
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\HubEventFeeder.pdb
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\obj\Debug\HubEventFeeder.exe
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\obj\Debug\HubEventFeeder.pdb
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\scadmin\Documents\Visual Studio 2015\Projects\HubEventFeeder\HubEventFeeder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\scadmin\Source\Repos\WeatherSampler\HubEventFeeder\HubEventFeeder\bin\Debug\HubEventFeeder.exe.config
+C:\Users\scadmin\Source\Repos\WeatherSampler\HubEventFeeder\HubEventFeeder\obj\Debug\HubEventFeeder.exe
+C:\Users\scadmin\Source\Repos\WeatherSampler\HubEventFeeder\HubEventFeeder\obj\Debug\HubEventFeeder.pdb
